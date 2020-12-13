@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+readme.md
+setup.cfg
+setup.py
+sanatantime/__init__.py
+sanatantime/sanatantime.py
+sanatantime.egg-info/PKG-INFO
+sanatantime.egg-info/SOURCES.txt
+sanatantime.egg-info/dependency_links.txt
+sanatantime.egg-info/top_level.txt
